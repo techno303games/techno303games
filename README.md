@@ -3,11 +3,8 @@
     
   </head>
   <body>
-    <h1>TechnoFerret303</h1>
-    <p>Welcome to my GitHib profile!</p>
-    <h2>About:</h2>
-    <p>I make stuff.</p>
-    <h2>Links:</h2>
+    <h1>TechnoFerret303 (Ferret)</h1>
+    <p>Some people may call me Ferret, others TechnoFerret303. I can have a lot of names, but I like to be called Ferret.</p>
     <p>
       <b>Scratch:</b> <a  href="https://scratch.mit.edu/users/technoferret303/">https://scratch.mit.edu/users/technoferret303/</a>
       <br>
