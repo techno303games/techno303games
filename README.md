@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>TechnoFerret303 (Ferret)</h1>
-    <img src="https://aviate.scratchers.tech/api/image/technoferret303?width=500&height=90&dark=true">
+    <img src="https://aviate.scratchers.tech/api/image/technoferret303?width=500&height=90&dark=true" alt="technoferret303's Aviate status" />
     <p>Some people may call me Ferret, others TechnoFerret303. I can have a lot of names, but I like to be called Ferret.</p>
     <p>
       <b>Scratch:</b> <a  href="https://scratch.mit.edu/users/technoferret303/">https://scratch.mit.edu/users/technoferret303/</a>
